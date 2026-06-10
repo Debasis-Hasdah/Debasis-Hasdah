@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 - 🎓 B.Tech CSE Student
 - 🌱 Currently learning Data Structures & Algorithms
