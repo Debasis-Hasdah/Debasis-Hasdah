@@ -1,8 +1,12 @@
 # Hi 👋, I'm Debasis Hasdah
 
-### Computer Science Engineering Student | Full-Stack Developer | UI UX Designing
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&width=700&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;UI%2FUX+Designer;Java+%7C+Spring+Boot+%7C+React;Always+Learning+New+Things" alt="Typing SVG" />
 
-🚀 Passionate about building web applications, and scalable software systems.
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### Computer Science Engineering Student | Full-Stack Developer | UI/UX Designer
+
+🚀 Passionate about building web applications and scalable software systems.
 
 ---
 
@@ -11,60 +15,79 @@
 - 🎓 B.Tech CSE Student
 - 🌱 Currently learning Data Structures & Algorithms
 - 💻 Building Full Stack Applications using React, Spring Boot, and MySQL
+- 🎨 Interested in UI/UX Design
 - 🚀 Exploring Startup and Freelancing Opportunities
-
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js" />
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+</p>
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+### Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,idea" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📱 Social Media Platform
-Instagram-like social media platform built with React and Tailwind CSS.
+### 💻 Online Coding Platform
+A coding platform where users can solve programming problems, submit solutions, and track their progress.
 
-### 🏥 Health Diagnosis from Smartphone
-AI-powered health prediction system using camera, audio, and machine learning.
+### 🏦 Banking System
+A secure banking application featuring account management, transactions, deposits, withdrawals, and balance tracking.
 
-### 🤖 AI Chatbot
-Custom chatbot built using modern AI technologies.
+### 🎓 Mentoring Application
+A platform connecting mentors and mentees for guidance, scheduling sessions, and tracking learning progress.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debasis-Hasdah&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debasis-Hasdah&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debasis-Hasdah&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debasis-Hasdah&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Debasis-Hasdah)
+![GitHub Streak](https://streak-stats.demolab.com?user=Debasis-Hasdah&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Debasis-Hasdah&theme=tokyonight&row=1)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Debasis-Hasdah&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
 ## 🌐 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/debasis-hasdah-862004343)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/debasis-hasdah-862004343)
