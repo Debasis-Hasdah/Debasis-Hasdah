@@ -20,33 +20,37 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,js" />
 
-### Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
-</p>
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
 
-### Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
-</p>
+### Backend
+<img src="https://skillicons.dev/icons?i=spring" />
+
+</td>
+
+<td valign="top" width="50%">
 
 ### Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-### Tools & Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,idea" />
-</p>
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,idea" />
 
+### Currently Learning
+<img src="https://skillicons.dev/icons?i=docker,mongodb" />
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🚀 Featured Projects
@@ -76,18 +80,11 @@ A platform connecting mentors and mentees for guidance, scheduling sessions, and
 
 ---
 
-## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Debasis-Hasdah&theme=tokyonight&row=1)
+<h2>🌐 Connect With Me</h2>
 
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Debasis-Hasdah&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/debasis-hasdah-862004343)
+<p align="left">
+  <a href="https://www.linkedin.com/in/debasis-hasdah-862004343/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+</p>
