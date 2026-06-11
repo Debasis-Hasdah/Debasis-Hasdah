@@ -82,7 +82,7 @@ A platform connecting mentors and mentees for guidance, scheduling sessions, and
 ---
 
 
-<h2>🌐 Connect With Me</h2>
+<h2>🌐 Connect With Me </h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/debasis-hasdah-862004343/" target="_blank">
