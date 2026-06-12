@@ -6,7 +6,7 @@
 
 ### Computer Science Engineering Student | Full-Stack Developer | UI/UX Designer
 
-🚀 Passionate about building web applications and scalable software systems.
+🚀 Passionate about building web applications and scalable software Systems.
 
 ---
 
