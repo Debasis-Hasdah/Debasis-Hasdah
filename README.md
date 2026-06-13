@@ -1,10 +1,10 @@
 # Hi 👋, I'm Debasis Hasdah
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&width=700&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;UI%2FUX+Designer;Java+%7C+Spring+Boot+%7C+React;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&width=700&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Always+Learning+New+Things" alt="Typing SVG" />
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### Computer Science Engineering Student | Full-Stack Developer | UI/UX Designer
+### Computer Science Engineering Student | Full-Stack Developer
 
 🚀 Passionate about building web applications and scalable software Systems.
 
