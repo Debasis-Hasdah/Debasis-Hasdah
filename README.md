@@ -57,10 +57,10 @@
 ## 🚀 Featured Projects
 
 ### 💻 Online Coding Platform
-A coding platform where users can solve programming problems, submit solutions, and track their progress.
+A coding platform where users can solve programming problems, submit solutions, and track their Progress.
 
 ### 🏦 Banking System
-A secure banking application featuring account management, transactions, deposits, withdrawals, and balance tracking.
+A secure banking Application featuring account management, transactions, deposits, withdrawals, and balance tracking.
 
 ### 🎓 Mentoring Application
 A platform connecting mentors and mentees for guidance, scheduling sessions, and tracking learning progress.
