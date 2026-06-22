@@ -21,7 +21,7 @@
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+<h2>🛠️ Tech Stacks</h2>
 
 <table>
 <tr>
