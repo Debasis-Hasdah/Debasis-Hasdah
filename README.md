@@ -17,7 +17,7 @@
 - 🌱 Currently learning Data Structures & Algorithms
 - 💻 Building Full Stack Applications using React, Spring Boot, and MySQL
 - 🎨 Interested in UI/UX Design
-- 🚀 Exploring Startup and Freelancing Opportunities.
+- 🚀 Exploring Startup and Freelancing Opportunities
 
 ---
 
