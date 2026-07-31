@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### Computer Science Engineering Student | Full-Stack Developer
+### Computer Science Engineering Student  | Full-Stack Developer
 
 🚀 Passionate about building web applications and scalable software Systems.
 
