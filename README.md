@@ -10,7 +10,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me.
 ---
 
 - 🎓 B.Tech CSE Student
